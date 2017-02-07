@@ -48,7 +48,7 @@
 </table>
 
 
-<p class="lead"><a href="enter_new_record.php">Add a move to the list.</a></p>
+<p class="lead"><a href="enter_new_record.php">Add a movie to the list.</a></p>
 
 </div> <!-- close container -->
 </body>

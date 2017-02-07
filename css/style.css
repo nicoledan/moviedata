@@ -14,11 +14,15 @@
 }
 
 #button1 {
-  max-width: 800px;
+  padding-top: 10px;
 }
 
 #button2 {
-  max-width: 800px;
+  padding-top: 10px;
+}
+
+#buttons {
+  margin: auto;
 }
 
 @media (max-width: 500px) {
